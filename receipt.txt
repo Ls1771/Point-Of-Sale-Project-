@@ -1,0 +1,7 @@
+===== POS-R-Us Receipt =====
+
+Apple           x5  $6.25
+
+-----------------------------
+TOTAL: $6.25
+Thank you for shopping with us!
