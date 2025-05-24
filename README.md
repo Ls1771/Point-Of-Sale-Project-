@@ -7,3 +7,5 @@
 -The project has been linked in the "Projects" tab. Check off your To-do list periodically.
 
 -Remember VERSION CONTROL! (Java) and to reach out in case of any questions.
+
+# Trigger CI test 
