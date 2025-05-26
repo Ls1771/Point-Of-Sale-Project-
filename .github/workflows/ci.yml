@@ -21,7 +21,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Compile Java project
-        run: javac -d out $(find src -name "*.java") $(find test -name "*.java")
+        run: javac -d out $(find . -name "*.java")
 
 
 
