@@ -61,3 +61,12 @@ IntelliJ IDEA
    git clone https://github.com/Ls1771/Point-Of-Sale-Project.git
    cd Point-Of-Sale-Project
    ```
+Compile and run into IDE:
+
+   ```bash
+   javac -d out src/**/*.java
+   java Main
+   ```
+
+---
+
