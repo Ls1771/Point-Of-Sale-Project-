@@ -2,7 +2,7 @@ Point-Of-Sale-Project
 
 This project is a Java-based Point of Sale (POS) system designed for small businesses. It allows users to scan products, calculate totals, and simulate transactions in a desktop GUI environment. The system supports itemized receipts, user roles, and multiple payment methods.
 
-
+---
 
 Features
 
@@ -20,7 +20,7 @@ Unit-tested with **JUnit** and fully integrated with CI/CD
 
 Test reports published via **Allure**
 
-
+---
 
 CI and Testing
 
@@ -37,7 +37,7 @@ Live deployment to GitHub Pages
 View the latest test report here:
 [Allure Test Report](https://ls1771.github.io/POS-Allure-Report/)
 
-
+---
 
 Tech Stack
 
@@ -51,7 +51,7 @@ Allure Reporting
 
 IntelliJ IDEA
 
-
+---
 
 Getting Started
 
