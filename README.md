@@ -76,6 +76,7 @@ Laurence Smith
 Alejandro Alatorre
 
 Brandon Jett
+
 ---
 
 Project Structure
