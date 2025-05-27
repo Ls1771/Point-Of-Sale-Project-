@@ -76,3 +76,31 @@ Laurence Smith
 Alejandro Alatorre
 
 Brandon Jett
+---
+
+Project Structure
+
+```
+Point-Of-Sale-Project/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── .idea/
+├── out/
+├── AuthService.java
+├── Cart.java
+├── CartItem.java
+├── CartManager.java
+├── Main.java
+├── POSWindow.java
+├── PaymentMethod.java
+├── PaymentService.java
+├── Product.java
+├── README.md
+├── ReceiptPrinter.java
+├── Role.java
+├── Transaction.java
+├── TransactionService.java
+├── User.java
+├── receipt.txt
+```
