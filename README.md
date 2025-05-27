@@ -1,6 +1,6 @@
 Point-Of-Sale-Project
 
-This project is a Java-based Point of Sale (POS) system designed for small businesses. It allows users to scan products, calculate totals, and simulate transactions in a desktop GUI environment. The system supports itemized receipts, user roles, and multiple payment methods.
+This Java-powered Point of Sale (POS) system is built for small businesses, offering an intuitive desktop interface for managing sales. Users can scan products, calculate totals in real time, and finalize transactions effortlessly. The system supports itemized receipts, multiple payment methods, and customizable user roles to enhance operational efficiency.
 
 ---
 
