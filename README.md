@@ -8,4 +8,4 @@
 
 -Remember VERSION CONTROL! (Java) and to reach out in case of any questions.
 
-# Trigger CI test 
+Link to the ALlure Test Report: https://ls1771.github.io/POS-Allure-Report/
