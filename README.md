@@ -69,4 +69,10 @@ Compile and run into IDE:
    ```
 
 ---
+Credits
 
+Laurence Smith
+
+Alejandro Alatorre
+
+Brandon Jett
