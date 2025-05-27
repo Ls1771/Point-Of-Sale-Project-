@@ -3,6 +3,7 @@ Java-Based POS System with GitHub Actions and Allure Reporting
 A desktop point-of-sale system implemented in Java with JUnit testing, GitHub Actions CI/CD, and automated test reporting through Allure.
 
 ---
+
 ![CI](https://github.com/Ls1771/Point-Of-Sale-Project/actions/workflows/ci.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Allure](https://img.shields.io/badge/report-Allure-purple)
