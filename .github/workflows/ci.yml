@@ -21,11 +21,14 @@ jobs:
           distribution: 'temurin'
 
       - name: Compile Java project
-        run: javac -d out $(find . -name "*.java")
+        run: |
+          wget https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.10.0/junit-platform-console-standalone-1.10.0.jar
+          javac -cp junit-platform-console-standalone-1.10.0.jar -d out $(find . -name "*.java")
+      
 
       - name: Run JUnit tests
         run: |
-          wget https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.10.0/junit-platform-console-standalone-1.10.0.jar
           java -jar junit-platform-console-standalone-1.10.0.jar \
             --class-path out \
             --scan-class-path
+      
