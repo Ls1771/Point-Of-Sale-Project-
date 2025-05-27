@@ -30,11 +30,11 @@ jobs:
         run: |
           wget https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.10.0/junit-platform-console-standalone-1.10.0.jar
           java -jar junit-platform-console-standalone-1.10.0.jar \
+            execute \
             --class-path out \
             --scan-class-path \
-            --reports-dir build/test-results \
-            --details-theme standard \
-            --report-type xml
+            --reports-dir build/test-results
+      
 
       - name: Download Allure CLI
         run: |
