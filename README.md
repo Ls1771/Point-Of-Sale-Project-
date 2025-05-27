@@ -53,7 +53,7 @@ IntelliJ IDEA
 
 ---
 
-Getting Started
+
 
  Here is the repository clone for local use:
 
