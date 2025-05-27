@@ -4,12 +4,9 @@ A desktop point-of-sale system implemented in Java with JUnit testing, GitHub Ac
 
 ---
 
-![CI](https://github.com/Ls1771/Point-Of-Sale-Project/actions/workflows/ci.yml/badge.svg)
-
+![CI](https://github.com/Ls1771/Point-Of-Sale-Project/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Java](https://img.shields.io/badge/Java-17-blue)
-
 ![Allure](https://img.shields.io/badge/report-Allure-purple)
-
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 This repository contains the **Point-of-Sale System**, developed as part of a collaborative course project for CSC-449 Java Software Engineering at National University.
